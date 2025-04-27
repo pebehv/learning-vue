@@ -6,8 +6,8 @@
     </nav-->
     <nav aria-label="breadcrumb" class="nav ">
       <ol class="breadcrumb">    
-        <li class="breadcrumb-item"><a href="index.html#/welcome">Home</a></li>
-        <li class="breadcrumb-item"><a href="index.html#/myComponent">Table</a></li>
+        <li class="breadcrumb-item"><a href="welcome">Home</a></li>
+        <li class="breadcrumb-item"><a href="myComponent">Table</a></li>
        
       </ol>
     </nav>
