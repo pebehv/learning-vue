@@ -10,7 +10,7 @@ const routes = [
     component: HelloWorld
   },*/
   {
-    path: '/welcome' ||  '/',
+    path: '/welcome' ,
     name: 'HelloWorld',
     component: HelloWorld
   },
