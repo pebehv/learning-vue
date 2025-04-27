@@ -1,5 +1,6 @@
 // src/router.js
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter, createWebHashHistory  } from 'vue-router';
+
 import HelloWorld from './components/HelloWorld.vue'; // Asegúrate de crear este componente
 import MyComponent from './components/my-component.vue'; // Asegúrate de crear este componente
 
@@ -23,7 +24,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory (),
   routes
 });
 
