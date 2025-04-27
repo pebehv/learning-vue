@@ -11,12 +11,12 @@ const routes = [
     component: HelloWorld
   },*/
   {
-    path: '/welcome' ,
+    path: '/index.html#/welcome' ,
     name: 'HelloWorld',
     component: HelloWorld
   },
   {
-    path: '/myComponent',
+    path: '/index.html#/myComponent',
     name: 'MyComponent',
     component: MyComponent
   },
